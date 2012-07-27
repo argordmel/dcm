@@ -1,0 +1,1 @@
+Sistema de administración de contenidos DailyContentManager
